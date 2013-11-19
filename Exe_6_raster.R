@@ -1,4 +1,4 @@
-## tewelde 
+## Tewelde G.HAGOS
 ## Date 18-11-2013
 ## SRandom forest Classification
 ## Exe_ 6
