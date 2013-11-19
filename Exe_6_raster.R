@@ -228,6 +228,4 @@ pB2B3 <- ggplot(data = valuetable, aes(x=gewataB2, y=gewataB3)) +
   facet_wrap(~ label) +
   theme_bw()
 pB2B3
-## the coffe plant and the wet land seems overlaped in the "NDVI value"
-## the bambo and the  forest has a bit overlap in "VCF tree cover"
 ##End
